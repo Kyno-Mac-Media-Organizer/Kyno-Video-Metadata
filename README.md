@@ -4,11 +4,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVBhCZ3JCnLRRdWCrWVR8p-vQmIbFTZ3dkQ&s" alt="Kyno Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://thynizaudin.github.io/.github/kyno">  
-<img src="https://img.shields.io/badge/GET_KYNO-darkgreen?style=for-the-badge&logo=apple" alt="GET Kyno">  
-</a>  
-</div>  
+[![Explore Kyno Media Organizer](https://img.shields.io/badge/Explore-Kyno%20Media%20Organizer-C2410C?style=for-the-badge)](https://kyno-media-organizer.github.io/.github/) 
 
 ---
 
